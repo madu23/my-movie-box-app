@@ -11,6 +11,7 @@ You can also open `index.html` directly, but a local HTTP server is recommended.
 
 ## Features
 
+- Register form. You can't view, search or filter the movies if you are not registered  
 - Popular, weekly trending, and top-rated movie collections.
 - Search movies by title with client-side form validation.
 - Filter by genre, release year and minimum vote average; sort by popularity, rating, release date and title.
